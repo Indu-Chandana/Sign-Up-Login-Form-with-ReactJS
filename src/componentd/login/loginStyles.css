@@ -1,0 +1,35 @@
+.login-parent{
+    /* background-color: #22800b; */
+    margin-top: 20vh;
+    height: 70vh;
+    width: 50%;
+    margin-left: auto;
+    margin-right: 10%;
+    display: flex;
+
+}
+
+.login-name{
+    background-color: #708090;
+    height: 70vh;
+    width: 40%;
+    display: flex;
+    text-align: center;
+}
+
+.title-login{
+    margin: auto;
+    color: #C0C0C0;
+}
+
+.login-form{
+    border: 3px solid #708090;
+    height: 70vh;
+    width: 60%;
+    padding: 5%;
+}
+
+.btn-outline-primary{
+    width: 100%;
+    margin-top: 2vh;
+}

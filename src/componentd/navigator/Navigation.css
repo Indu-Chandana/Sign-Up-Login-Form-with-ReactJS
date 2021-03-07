@@ -1,0 +1,10 @@
+.form-inline{
+    margin-left: auto;
+    margin-right: 1%;
+    display: flex;
+}
+
+.btn{
+    color: black;
+}
+
